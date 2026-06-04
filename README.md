@@ -58,7 +58,7 @@ Github: https://github.com/Jacccobyiezx9/Foam-and-Fortune
 Github: https://github.com/Jacccobyiezx9/AppliedMathFinals_Lopez 
 
 **Mask-A-Raid**\
-2D Action Game
+3D Action Game
 * Game Designer
 * Game Programmer
   
